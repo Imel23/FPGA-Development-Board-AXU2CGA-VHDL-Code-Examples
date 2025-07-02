@@ -1,56 +1,33 @@
-# Vivado project files
+# Vivado/Vitis generated files and directories (compilation outputs)
 *.jou
 *.log
 *.str
-*.cache/
-*.hw/
-*.ip_user_files/
-*.runs/
-*.sim/
-*.gen/
-*.webtalk/
-*.Xil/
-*.data/
-*.tmp/
-*.backup/
 *.wdb
-*.xml
-*.html
-*.csv
-*.db
-*.dmp
+*.rpt
 *.pb
-*.tcl
-*.xpr
-*.xpr.lock
-*.xgui
+*.wcfg
+*.dmp
 *.bin
 *.bit
 *.elf
 *.mif
-*.coe
-*.prj
 *.svf
 *.vcd
 *.vdb
 *.vhw
-*.vhdl
-*.vhd
-*.v
-*.sv
-*.log
-*.rpt
-*.jou
-*.wcfg
-*.wdb
-*.bak
-*.orig
-*.swp
-*.swo
-*.swn
-*.tmp
-*.user
-*.gz
+
+# Vivado generated directories
+.cache/
+.hw/
+.ip_user_files/
+.runs/
+.sim/
+.gen/
+.webtalk/
+.Xil/
+.data/
+.tmp/
+.backup/
 
 # OS generated files
 .DS_Store
@@ -58,10 +35,3 @@ Thumbs.db
 
 # VS Code settings
 .vscode/
-
-# Other
-*.zip
-*.tar
-*.tar.gz
-*.7z
-*.rar
