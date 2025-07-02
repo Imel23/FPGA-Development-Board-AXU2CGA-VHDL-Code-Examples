@@ -1,0 +1,1 @@
+ila_0.vhd,vhdl,xil_defaultlib,../../../../ram_tuto.gen/sources_1/ip/ila_0_1/sim/ila_0.vhd,incdir="../../../../ram_tuto.gen/sources_1/ip/ila_0_1/hdl/verilog"

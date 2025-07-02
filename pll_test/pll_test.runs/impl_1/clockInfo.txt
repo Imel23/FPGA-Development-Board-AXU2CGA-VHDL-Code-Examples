@@ -1,0 +1,53 @@
+***********************
+Running Pre-CRP Checker
+***********************
+Number of global clocks: 5
+	Number of BUFGCE: 4
+	Number of BUFGCE_HDIO: 1
+	Number of BUFG_CTRL: 0
+	Number of BUFGCE_DIV: 0
+	Number of BUFG_GT: 0
+	Number of BUFG_PS: 0
+	Number of BUFG_FABRIC: 0
+	Running suboptimal placement checker for 5 clocks (and their loads) which do not have the CLOCK_LOW_FANOUT property but have a fanout less than 2000...
+********************************
+Clock Net Route Info (CRP Input)
+********************************
+Clock 1: sys_clkbuf
+	Clock source type: BUFGCE_HDIO
+	Clock source region: X1Y0
+	Clock regions with locked loads: X1Y0 
+	initial rect ((1, 0), (1, 0))
+
+Clock 2: pll_inst/inst/clk_out1
+	Clock source type: BUFGCE
+	Clock source region: X1Y0
+	Clock regions with locked loads: X0Y2 
+	initial rect ((0, 0), (1, 2))
+
+Clock 3: pll_inst/inst/clk_out2
+	Clock source type: BUFGCE
+	Clock source region: X1Y0
+	Clock regions with locked loads: X0Y2 
+	initial rect ((0, 0), (1, 2))
+
+Clock 4: pll_inst/inst/clk_out3
+	Clock source type: BUFGCE
+	Clock source region: X1Y0
+	Clock regions with locked loads: X0Y2 
+	initial rect ((0, 0), (1, 2))
+
+Clock 5: pll_inst/inst/clk_out4
+	Clock source type: BUFGCE
+	Clock source region: X1Y0
+	Clock regions with locked loads: X0Y1 
+	initial rect ((0, 0), (1, 1))
+
+
+
+*****************
+User Constraints:
+*****************
+No user constraints found
+
+

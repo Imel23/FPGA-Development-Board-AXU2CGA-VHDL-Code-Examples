@@ -1,0 +1,11 @@
+0.7
+2020.2
+Nov  8 2024
+22:36:55
+/home/udemy/vhdl_projects/fifo_test/fifo_test.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,1749295677,verilog,,,,clk_wiz_0,,,../../../../fifo_test.ip_user_files/ipstatic,,,,,
+/home/udemy/vhdl_projects/fifo_test/fifo_test.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,1749295677,verilog,,/home/udemy/vhdl_projects/fifo_test/fifo_test.gen/sources_1/ip/clk_wiz_0/clk_wiz_0.v,,clk_wiz_0_clk_wiz,,,../../../../fifo_test.ip_user_files/ipstatic,,,,,
+/home/udemy/vhdl_projects/fifo_test/fifo_test.gen/sources_1/ip/fifo_ip/sim/fifo_ip.v,1749295346,verilog,,/home/udemy/vhdl_projects/fifo_test/fifo_test.gen/sources_1/ip/clk_wiz_0/clk_wiz_0_clk_wiz.v,,fifo_ip,,,../../../../fifo_test.ip_user_files/ipstatic,,,,,
+/home/udemy/vhdl_projects/fifo_test/fifo_test.gen/sources_1/ip/ila_0/sim/ila_0.vhd,1749319801,vhdl,,,,ila_0,,,,,,,,
+/home/udemy/vhdl_projects/fifo_test/fifo_test.sim/sim_1/behav/xsim/glbl.v,1724786425,verilog,,,,glbl,,,,,,,,
+/home/udemy/vhdl_projects/fifo_test/fifo_test.srcs/sim_1/new/fifo_tb.vhd,1749328937,vhdl,,,,tb_fifo_test,,,,,,,,
+/home/udemy/vhdl_projects/fifo_test/fifo_test.srcs/sources_1/new/fifo_test.vhd,1749333910,vhdl,/home/udemy/vhdl_projects/fifo_test/fifo_test.srcs/sim_1/new/fifo_tb.vhd,,,fifo_test,,,,,,,,
